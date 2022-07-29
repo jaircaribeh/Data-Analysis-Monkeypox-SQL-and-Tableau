@@ -11,7 +11,7 @@ I started by understanding the data. Some of them are: Date, Suspected cases, Co
 
 I uploaded the table in SQLSERVER and cleaned the data using SQL command. After the data was processed, I connected Tableau in SQLSERVER and created the data visualization. 
 
-So I found that Monkeypox in 6 months arrived in several countries and in all continents. So far, Spain is the most affected country, and most of the infected population are men. Despite the disease spreading around the world, Senior Writers say that Monkeypox won't be the next global pandemic, because of the vaccine, at least two vaccines and two antivirals have been approved against monkeypox or its close relative smallpox.
+So I found that Monkeypox in 6 months arrived in several countries and in all continents. So far, Spain is the most affected country, and most of the infected population are men. Despite the disease spreading around the world, Senior Writers say that Monkeypox won't be the next global pandemic, because at least two vaccines and two antivirals have been approved against monkeypox or its close relative smallpox.
 
 
 
